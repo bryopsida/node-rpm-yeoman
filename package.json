@@ -3,7 +3,7 @@
   "keywords": ["rpm", "node", "yeoman-generator"],
   "version": "0.1.0",
   "dependencies": {
-    "yeoman-generator": "^7.4.0"
+    "yeoman-generator": "^9.0.0"
   },
   "files":[
     "generators"
